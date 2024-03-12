@@ -78,7 +78,7 @@ const config = {
             position: 'right',
           },
           {
-            href: 'https://github.com/ayolk0327/yumcraft-WIKI',
+            href: 'https://github.com/AyolK0327/yumcraft-WIKI-main',
             label: 'GitHub',
             position: 'right',
           },
