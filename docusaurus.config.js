@@ -14,12 +14,12 @@ const config = {
   url: 'https://ayolk0327.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/Wiki-Template/',
+  baseUrl: '/yumcraft-WIKI-main/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'AyolK', // Usually your GitHub org/user name.
-  projectName: 'Wiki-Template', // Usually your repo name.
+  projectName: 'yumcraft-WIKI-main', // Usually your repo name.
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
 
@@ -43,7 +43,7 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           routeBasePath: '/',
           editUrl:
-            'https://github.com/ayolk0327/yumcraft-WIKI/blob/main'
+            'https://github.com/AyolK0327/yumcraft-WIKI-main/tree/master'
         },
         blog: false,
         theme: {
